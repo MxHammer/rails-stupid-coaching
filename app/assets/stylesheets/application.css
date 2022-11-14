@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+ h1 {
+   color: red;
+   font-family: freightsanspro;
+   font-size: 300%;
+ }
+
+ p {
+   color: black;
+   font-family: freightsanspro;
+   font-size: 160%;
+ }
+blockquote {
+  background-color: aqua;
+}
